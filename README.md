@@ -17,4 +17,4 @@ Cuidados metodológicos:
 • A data de ingresso foi ignorada: cerca de 96% aparecem como 01/01/2024, provavelmente por reestruturação administrativa
 • O período é de apenas seis meses, então não indica tendência de longo prazo
 
-Ferramentas: Python (pandas), HTML/CSS/JavaScript, GitHub Pages e IA generativa (Claude) como apoio na construção.
+Ferramentas: Python (pandas), HTML, GitHub Pages e IA generativa (Claude) como apoio na construção.
